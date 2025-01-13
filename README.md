@@ -34,4 +34,22 @@ Hi,I'm Priyanshu Pandey🙌, a Web Developer, low level enthusiast.
 </div>
 
 ### Collaborated works
-<a href="https://github.com/enchanteddev/DeceRT">DeceRT Framework</a>
+<div>
+  <span>
+    <a href="https://github.com/enchanteddev/DeceRT">DeceRT Framework</a>
+    <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2KqH_oY9XqPe4W8tkOWzxIDfAhPgcNALnQ&s"></code>
+  </span>
+  <p>An Open Ended Lab project. DeceRT is a RTOS-independent framework which statically schedules user's code on different OBCs.</p>
+</div>
+<div>
+  <span>
+    <a href="https://github.com/enchanteddev/MoonMapper">Moon Mapper</a>
+    <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2KqH_oY9XqPe4W8tkOWzxIDfAhPgcNALnQ&s"></code>
+  </span>
+  <p>Takes moving average and maps the lunar spectrometry data onto the lunar map</p>
+</div>
+<div>
+  <a href="https://github.com/enchanteddev/CustomOAuth">CustomOAuth</a>
+  <p>An authorization system, for small projects.</p>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+</div>
