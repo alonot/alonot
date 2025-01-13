@@ -28,4 +28,4 @@ Hi,I'm Priyanshu Pandey🙌, a Web Developer, low level enthusiast.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alonot&theme=radical" alt="Priyanshu Pandey's GitHub Achievements" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonot)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonot&layout=pie)
